@@ -13,4 +13,8 @@ output for task-
 <img width="1710" alt="Screenshot 2025-04-24 at 11 29 38 PM" src="https://github.com/user-attachments/assets/d6ee1527-3d17-42a8-b7a0-aaf321c35eee" />
 <img width="1710" alt="Screenshot 2025-04-24 at 11 29 48 PM" src="https://github.com/user-attachments/assets/65b33117-cc18-4423-884d-a72d7fa8b180" />
 
-output for 
+output for table practice-
+<img width="1710" alt="Screenshot 2025-04-24 at 11 32 25 PM" src="https://github.com/user-attachments/assets/062d3b98-80eb-4b31-b8a7-2443e9c78898" />
+<img width="1710" alt="Screenshot 2025-04-24 at 11 32 34 PM" src="https://github.com/user-attachments/assets/7ed047eb-89d1-4ccf-b07a-290bb0246dcc" />
+<img width="1710" alt="Screenshot 2025-04-24 at 11 32 43 PM" src="https://github.com/user-attachments/assets/ce8bacd2-9450-4d62-80e7-5bb0a7fc7000" />
+<img width="1710" alt="Screenshot 2025-04-24 at 11 32 52 PM" src="https://github.com/user-attachments/assets/500e61d5-6dee-4e7f-8a56-722ad5c0a0d9" />
